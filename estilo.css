@@ -1,0 +1,37 @@
+body{
+    background-color: coral;
+}
+
+#destaque{
+    background-color: rgba(43, 205, 226, 0.886);
+    color: blue;
+    text-align: center;
+}
+
+#grifinoria{
+    background-color: rgb(212, 199, 19);
+    color: rgb(228, 21, 21);
+    text-align: center;
+}
+
+#sonserina{
+    background-color: green;
+    color:grey;
+    text-align: center;
+}
+
+#lufa_lufa{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+}
+
+#corvinal{
+    background-color: rgb(26, 62, 243);
+    color: rgb(134, 136, 139);
+    text-align: center;
+}
+
+div{
+    border:10px white solid;
+}
