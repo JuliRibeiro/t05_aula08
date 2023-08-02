@@ -2,7 +2,7 @@ body{
     background-color: coral;
 }
 
-#destaque{
+.destaque{
     background-color: rgba(43, 205, 226, 0.886);
     color: blue;
     text-align: center;
